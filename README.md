@@ -14,7 +14,9 @@ Developed as the final deliverable for the IBM BharatCares Internship Program, t
 
 The objective is to provide HR, Sales, and Finance teams with a consolidated view of workforce performance, sales productivity, compensation patterns, and employee financial wellness.
 
-🔗 **[View the Live Interactive Dashboard on Tableau Public]((https://public.tableau.com/app/profile/kenisha.chauhan/viz/EmployeePerformanceAnalytics_17949553973240/ExecutiveOverview))**
+## 🔗 Live Interactive Dashboard
+
+[View the Live Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/kenisha.chauhan/viz/EmployeePerformanceAnalytics_17949553973240/ExecutiveOverview)
 
 ---
 
